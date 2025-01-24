@@ -1,0 +1,1 @@
+Realizei esse projeto com o curso da alura, tive muitos desafios ao longo do projeto mas com ajuda de comunidades, e voltando ao curso para recaptular alguns detalhes fui bem sucedido em realizar meu primeiro projeto como DEV! 
